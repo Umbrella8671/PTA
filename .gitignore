@@ -1,0 +1,4 @@
+# 可执行文件
+*.exe
+# .vscode
+.vscode/
